@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar
+END
+PythonLexer.smap
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonLexer.smap
+END
+ParsePython.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/ParsePython.class
+END
+PythonLexer.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonLexer.class
+END
+Python.class
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/Python.class
+END
+PythonParserTokenTypes.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonParserTokenTypes.class
+END
+PythonEndStatementInserter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonEndStatementInserter.java
+END
+ParsePython.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/ParsePython.java
+END
+PythonParser.smap
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonParser.smap
+END
+PythonLexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonLexer.java
+END
+Python.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/Python.java
+END
+PythonTokenStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonTokenStream.class
+END
+PythonParserTokenTypes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonParserTokenTypes.txt
+END
+PythonParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonParser.class
+END
+PythonParserTokenTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonParserTokenTypes.java
+END
+python.g
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/python.g
+END
+PythonEndStatementInserter.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonEndStatementInserter.class
+END
+PythonParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonParser.java
+END
+PythonTokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SimpleTAL-Ruby/!svn/ver/1/trunk/python_grammar/PythonTokenStream.java
+END
